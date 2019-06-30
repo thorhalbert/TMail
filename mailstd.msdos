@@ -1,0 +1,11 @@
+[tmail]
+Mail Help=%_SYSD%\asl\tmail.hlp
+Send Temp=%MAIL%\send.tmp
+Folder File=%%MAIL%%\%s.maf
+Folder Bak=%%MAIL%%\%s.bak
+Folder New=%%MAIL%%\%s.new
+User Ini=%MAIL%\tmail.ini
+Main Folder=inbox
+Seen Folder=inbox
+Trash Folder=trash
+Folder Mask=%MAIL%\*.maf

@@ -1,0 +1,9 @@
+[tmail]
+Folder File=~/tmail/%s.maf
+Folder Bak=~/tmail/%s.bak
+Folder New=~/tmail/%s.new
+User Ini=~/tmail/tmail.rc
+Main Folder=inbox
+Seen Folder=inbox
+Trash Folder=trash
+Folder Mask=~/tmail/*.maf

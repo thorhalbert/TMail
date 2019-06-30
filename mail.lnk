@@ -1,0 +1,4 @@
+FROM LIB:c.o+mail.o+malib.o
+TO mail
+LIB LIB:lc.lib+LIB:amiga.lib
+MAP mail.map
